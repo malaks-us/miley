@@ -13,12 +13,12 @@ tagline: ""
 avatar: "https://avatars2.githubusercontent.com/u/43266386?s=200&v=4"
 
 # full URI IE: /mysite { Do not add trailing / }
-baseurl: ""
+baseurl: "/miley"
 
 # set site author
 author:
   name: Miley
-  url: http://malaks-us.github.io/miley
+  url: http://malaks-us.github.io
 
 # set url for the contact form
 form:
