@@ -53,7 +53,7 @@ excerpt_separator: "\n\n"
 share-this:
   rss: true
   code: 5acc08103368f4001495b647
-  repo: https://github.com/casjaysdev-sites/hak.casjay.net
+  repo: https://github.com/casjaysdev-sites/hak.casjay.pro
   email:
   enabled:
     footer: true
