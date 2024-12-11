@@ -13,12 +13,12 @@ tagline: ""
 avatar: "https://avatars2.githubusercontent.com/u/43266386?s=200&v=4"
 
 # full URI IE: /mysite { Do not add trailing / }
-baseurl: "/miley"
+baseurl: "/"
 
 # set site author
 author:
   name: Miley
-  url: http://malaks-us.github.io
+  url: http://miley.malaks.us
 
 # set url for the contact form
 form:
@@ -202,7 +202,7 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 sass:
   sass_dir: _sass
-  style: :expanded
+  style: expanded
 
 jekyll_tidy:
   compress_html: true
